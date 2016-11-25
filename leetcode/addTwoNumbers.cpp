@@ -1,3 +1,4 @@
+// 速度更快，但是代码不规范，直接在l1上操作，并把l1作为结果返回
 #include <iostream>
 using namespace std;
 
